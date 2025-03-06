@@ -1,7 +1,7 @@
-# manaken0522.com
+# dolphick.com
 
-https://manaken0522.com  
-https://manaken0522-com.pages.dev  
+https://dolphick.com  
+https://dolphick-com.pages.dev  
 
 ## Getting Started
 

@@ -1,20 +1,20 @@
 import { Metadata } from "next"
 
 export const metadata: Metadata = {
-    title: 'manaken0522.com',
+    title: 'dolphick.com',
     description: '404(NotFound)',
     icons: {
         icon: '/favicon.ico'
     },
     openGraph: {
-        images: '/images/manaken0522.webp',
+        images: '/images/dolphick.webp',
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'manaken0522.com',
+        title: 'dolphick.com',
         description: '404(NotFound)',
-        images: ['/images/manaken0522.webp'],
-        creator: '@manaken0522',
+        images: ['/images/dolphick.webp'],
+        creator: '@dolphick',
         creatorId: '1764669515210891264'
     },
 }
