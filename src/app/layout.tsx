@@ -15,6 +15,7 @@ export default function RootLayout({children,}: Readonly<{children: React.ReactN
             <head>
                 <meta charSet="UTF-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+                <link rel="shortcut icon" href="dolphick.jpg" type="image/x-icon" />
                 <title>Dolphick</title>
             </head>
             <body>
