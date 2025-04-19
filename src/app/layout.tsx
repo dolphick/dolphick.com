@@ -2,6 +2,7 @@
 
 import { createTheme, CssBaseline, ThemeProvider } from "@mui/material";
 import "./globals.css";
+import Header from "@/components/header";
 
 const theme = createTheme({
     palette: {
@@ -21,7 +22,10 @@ export default function RootLayout({children,}: Readonly<{children: React.ReactN
             <body>
                 <ThemeProvider theme={theme}>
                     <CssBaseline />
-                    {children}
+                    <Header />
+                    <div>
+                        {children}
+                    </div>
                 </ThemeProvider>
             </body>
         </html>
